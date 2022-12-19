@@ -1,0 +1,15 @@
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/obj/Debug/net7.0/taskHW_13.csproj.AssemblyReference.cache
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/obj/Debug/net7.0/taskHW_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/obj/Debug/net7.0/taskHW_13.AssemblyInfoInputs.cache
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/obj/Debug/net7.0/taskHW_13.AssemblyInfo.cs
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/obj/Debug/net7.0/taskHW_13.csproj.CoreCompileInputs.cache
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/bin/Debug/net7.0/taskHW_13
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/bin/Debug/net7.0/taskHW_13.deps.json
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/bin/Debug/net7.0/taskHW_13.runtimeconfig.json
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/bin/Debug/net7.0/taskHW_13.dll
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/bin/Debug/net7.0/taskHW_13.pdb
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/obj/Debug/net7.0/taskHW_13.dll
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/obj/Debug/net7.0/refint/taskHW_13.dll
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/obj/Debug/net7.0/taskHW_13.pdb
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/obj/Debug/net7.0/taskHW_13.genruntimeconfig.cache
+/Users/daria/Desktop/Homework/2seminar/taskHW_13/obj/Debug/net7.0/ref/taskHW_13.dll
