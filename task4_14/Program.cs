@@ -4,29 +4,30 @@
 // 46 -> нет
 // 161 -> да
 
-Console.Write("Enter the first number: ");
+Console.Write("Enter the number: ");
 int N1 = int.Parse(Console.ReadLine()!);
+int result1 = N1%7;
+int result2 = N1%23;
 
-
-if(N1%7 == 0)
+if (N1%7 == 0 & N1%23 == 0)
 {
-    Console.Write($"Числло {N1} кратно 7 ");
+    Console.Write("Числло кратно ");
     // Console.Write ("Число" + N1 + "кратно числу" + N2 ); тоже самое, что и выше
 }
 else
 {
-    Console.Write($"Числло {N1} не кратно 7 ");
+    Console.Write("Числло не кратно ");
 }
 
  
  
-if(N1%23 == 0)
-{
-    Console.Write($"Числло {N1} кратно 23 ");
-    // Console.Write ("Число" + N1 + "кратно числу" + N2 ); тоже самое, что и выше
-}
+// if(N1%23 == 0)
+// {
+//     Console.Write($"Числло {N1} кратно 23 ");
+//     // Console.Write ("Число" + N1 + "кратно числу" + N2 ); тоже самое, что и выше
+// }
 
-else
-{
-    Console.Write($"Числло {N1} не кратно 23 ");
-}
+// else
+// {
+//     Console.Write($"Числло {N1} не кратно 23 ");
+// }
