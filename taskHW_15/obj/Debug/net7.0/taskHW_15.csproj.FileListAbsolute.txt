@@ -1,0 +1,15 @@
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/obj/Debug/net7.0/taskHW_15.csproj.AssemblyReference.cache
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/obj/Debug/net7.0/taskHW_15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/obj/Debug/net7.0/taskHW_15.AssemblyInfoInputs.cache
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/obj/Debug/net7.0/taskHW_15.AssemblyInfo.cs
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/obj/Debug/net7.0/taskHW_15.csproj.CoreCompileInputs.cache
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/bin/Debug/net7.0/taskHW_15
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/bin/Debug/net7.0/taskHW_15.deps.json
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/bin/Debug/net7.0/taskHW_15.runtimeconfig.json
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/bin/Debug/net7.0/taskHW_15.dll
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/bin/Debug/net7.0/taskHW_15.pdb
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/obj/Debug/net7.0/taskHW_15.dll
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/obj/Debug/net7.0/refint/taskHW_15.dll
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/obj/Debug/net7.0/taskHW_15.pdb
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/obj/Debug/net7.0/taskHW_15.genruntimeconfig.cache
+/Users/daria/Desktop/Homework/2seminar/taskHW_15/obj/Debug/net7.0/ref/taskHW_15.dll
